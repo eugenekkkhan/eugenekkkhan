@@ -1,6 +1,28 @@
-## Welcome to my GitHub!
-<!--<a href="https://eugenekkkhan.github.io/portfolio/">My portfolio page</a>-->
-<img src="https://www.codewars.com/users/eugenekhan/badges/large"> </img>
+
+<style>
+.container {
+    border: 1px #ff69b4 solid;
+    padding: 2rem;
+    border-radius: 10px;
+    a, h1, h2, p {
+        color: #ff69b4;
+        font-family: monospace;
+        margin-top: 0;
+        margin-bottom: 5px;
+    }
+    h2 {
+
+    }
+    
+}
+</style>
+<div class="container">
+    <h2>Welcome to my GitHub!</h2>
+    <p>My codewars stats:</p>
+    <img src="https://www.codewars.com/users/eugenekhan/badges/small" href="https://www.codewars.com/users/eugenekhan"/>
+    <br />
+
+</div>
 <!--
 **eugenekkkhan/eugenekkkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
