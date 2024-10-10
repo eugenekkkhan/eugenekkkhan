@@ -14,9 +14,10 @@
                 }
             </style>
             <div class="container">
-            <h2>Welcome to my GitHub!</h2>
-            <p>My codewars stats:</p>
-            <!-- <img src="https://www.codewars.com/users/eugenekhan/badges/small" href="https://www.codewars.com/users/eugenekhan"/> -->
+                <h2>Welcome to my GitHub!</h2>
+                <p>My codewars stats:</p>
+                <img src="https://www.codewars.com/users/eugenekhan/badges/small" href="https://www.codewars.com/users/eugenekhan"/>
+            </div>
         </div>
     </foreignObject>
 </svg>
