@@ -1,6 +1,7 @@
 ## Welcome to my GitHub!
 <!--<a href="https://eugenekkkhan.github.io/portfolio/">My portfolio page</a>-->
 <img src="https://www.codewars.com/users/eugenekhan/badges/large"> </img>
+[![Eugene's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=eugenekhan)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 **eugenekkkhan/eugenekkkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
